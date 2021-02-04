@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![First_page](https://github.com/nishan-iicm/Amazon-Clone/blob/master/Amazon_first_page.png)
 ![Sign_page 1](https://github.com/nishan-iicm/Amazon-Clone/blob/master/sign_in_page.png)
-![order_page 1]https://github.com/nishan-iicm/Amazon-Clone/blob/master/order_page.png)
+![order_page 1](https://github.com/nishan-iicm/Amazon-Clone/blob/master/order_page.png)
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
